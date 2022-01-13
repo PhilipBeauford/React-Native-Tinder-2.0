@@ -4,7 +4,7 @@ This React Native example shows how to create fast front-ends using Expo & React
 
 ## Preview
 
-Preview the example live on https://
+Preview the example live on https://www
 
 
 ## Deploy your own
