@@ -6,7 +6,7 @@ import { AuthProvider } from './hooks/useAuth'
 export default function App() {
   return (
     <NavigationContainer>
-      <AuthProvider> {/* Passes down the cool auth stuff to the children... */}
+      <AuthProvider> {/* Passes down the cool auth stuff to the children ie StackNavigator... */}
         <StackNavigator />
       </AuthProvider>
     </NavigationContainer>
